@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'q42:intercom-oauthid',
+  name: 'q42internal:intercom-oauthid',
   summary: "Intercom.io integration using google oauth e-mailaddress as id",
   version: "1.4.2",
   git: "https://github.com/q42/meteor-intercom.git"
